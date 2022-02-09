@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @apc00085
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Andrés Palacios de Castro
+Estudiante de Desarrollo Ágil de Informática de la Universidad de Jaén.
 
-<!---
-apc00085/apc00085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Correo: apc00085@red.ujaen.es
+Web: http://platea.ujaen.es
+GitHub: https://github.com/apc00085
+Trello: https://trello.com/andrespalaciosdecastro
+ARCHIVO MODIFICADO
